@@ -1,5 +1,5 @@
 # CMPT419-Project-by-Triple-A
-[!image](https://github.com/infinitusposs/CMPT419-Project-by-Triple-A/blob/master/LOGO.jpg)
+![image](https://github.com/infinitusposs/CMPT419-Project-by-Triple-A/blob/master/LOGO.jpg)
 ## Introduction
 In recent years, deep learning has developed rapidly. More and more researchers
 have applied deep learning to different fields, like data analysis, predictions. In
