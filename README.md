@@ -1,11 +1,7 @@
 # CMPT419-Project-by-Triple-A <img src="https://github.com/infinitusposs/CMPT419-Project-by-Triple-A/blob/master/LOGO.jpg" width="64">
 
-## Proposal
-[Proposal.pdf](https://github.com/infinitusposs/CMPT419-Project-by-Triple-A/blob/master/proposal.pdf)
-
 ## Poster
-
-![image](https://github.com/infinitusposs/CMPT419-Project-by-Triple-A/blob/master/Triple%20A%20poster.pdf)
+[Poster](https://github.com/infinitusposs/CMPT419-Project-by-Triple-A/blob/master/Triple%20A%20poster.pdf)
 
 ## Introduction
 In recent years, deep learning has developed rapidly. More and more researchers
