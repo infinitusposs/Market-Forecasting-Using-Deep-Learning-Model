@@ -45,8 +45,8 @@ data.
 
 ## References
 [1] Najafabadi, M. M., Villanustre, F., Khoshgoftaar, T. M., Seliya, N., Wald, R., & Muharemagic, E. (2015).
-Deep learning applications and challenges in big data analytics. Journal of Big Data, 2(1), 1.\\
+Deep learning applications and challenges in big data analytics. Journal of Big Data, 2(1), 1. <br />
 [2] Vaisla, K. S., & Bhatt, A. K. (2010). An analysis of the performance of artificial neural network technique
-for stock market forecasting. International Journal on Computer Science and Engineering, 2(6), 2104-2109.\\
+for stock market forecasting. International Journal on Computer Science and Engineering, 2(6), 2104-2109. <br />
 [3] Hiransha, M., Gopalakrishnan, E. A., Menon, V. K., & Soman, K. P. (2018). NSE stock market prediction
 using deep-learning models. Procedia computer science, 132, 1351-1362.
