@@ -1,5 +1,8 @@
 # CMPT419-Project-by-Triple-A <img src="https://github.com/infinitusposs/CMPT419-Project-by-Triple-A/blob/master/LOGO.jpg" width="64">
 
+## Poster
+[Poster.pdf](https://github.com/infinitusposs/CMPT419-Project-by-Triple-A/blob/master/sfu_ai_poster_landscape_tall.pptx)
+
 ## Introduction
 In recent years, deep learning has developed rapidly. More and more researchers
 have applied deep learning to different fields, like data analysis, predictions. In
@@ -12,17 +15,19 @@ result indicates that MLP is a better neural network for making predictions on t
 revenue of companies in the next quarter.
 
 ## Multi-layer Perceptron
-![image](https://drive.google.com/uc?export=view&id=<FILE_ID>)
+![image](https://github.com/infinitusposs/CMPT419-Project-by-Triple-A/blob/master/Neural%20network%20models/MLP.jpg)
 
 ## Recurrent Neural Network
-![image](https://drive.google.com/uc?export=view&id=<FILE_ID>)
+![image](https://github.com/infinitusposs/CMPT419-Project-by-Triple-A/blob/master/Neural%20network%20models/RNN.png)
 
 ## Dataset 
-[Apple Financial Report]()
+[Apple Financial Report.csv](https://github.com/infinitusposs/CMPT419-Project-by-Triple-A/blob/master/Dataset/Apple%20Financial%20Report.csv)
 
 ## Result
-![image](https://drive.google.com/uc?export=view&id=<FILE_ID>)
-![image](https://drive.google.com/uc?export=view&id=<FILE_ID>)
+### MLP
+![image](https://github.com/infinitusposs/CMPT419-Project-by-Triple-A/blob/master/Result/MLP.png)
+### RNN
+![image](https://github.com/infinitusposs/CMPT419-Project-by-Triple-A/blob/master/Result/RNN.png)
 
 ## Conclusion
 RNN performs better on stock market prediction because the price highly depends on the previous
