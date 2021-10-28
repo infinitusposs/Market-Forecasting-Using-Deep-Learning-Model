@@ -1,4 +1,4 @@
-# CMPT419-Project-by-Triple-A <img src="https://github.com/infinitusposs/CMPT419-Project-by-Triple-A/blob/master/LOGO.jpg" width="64">
+# Market Forecasting Using Deep Learning Model
 
 ## Poster
 ![image](https://github.com/infinitusposs/CMPT419-Project-by-Triple-A/blob/master/Poster/Triple%20A%20poster.jpg)
